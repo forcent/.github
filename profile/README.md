@@ -7,20 +7,21 @@
 
 **Infrastructure and security work that goes all the way down.**
 
-Independent since 2018. DevSecOps, cloud and infrastructure architecture, penetration testing and technical recruitment -
-for banks, government, healthcare and technology companies across Europe and the US. The person who scopes your work is the
+Independent since 2018. DevSecOps, cloud and infrastructure architecture, penetration testing, AI agent security and
+technical recruitment - for banks, government, healthcare and technology companies across Europe and the US. The person who scopes your work is the
 person who does it.
 
-## Four practices, one team
+## Five practices, one team
 
 | | Practice | What it is |
 |---|---|---|
 | **Pipeline** | DevSecOps | Security controls that live inside the pipeline instead of blocking it at the end: CI/CD hardening, secrets management, supply chain and dependency scanning, policy as code. |
 | **Platform** | Cloud and infrastructure architecture | The platform underneath your product: network segmentation, identity and trust boundaries, infrastructure as code, and migrations planned so the cutover isn't the risky part. |
 | **Perimeter** | Penetration testing | Manual, scoped testing of applications, networks and cloud estates, with findings ranked by what an attacker would realistically do next - reproduction steps and a fix, not a scanner export. |
+| **Prompt** | AI agent security | Testing AI agents, LLM applications and MCP integrations the way an attacker would - prompt injection, tool abuse, data leakage - and building agentic systems with brokered secrets, approval gates and private model deployment. |
 | **People** | Technical recruitment | Hiring support from people who can read the code: sourcing and technical screening, assessment design, contract and permanent roles. |
 
-Most problems cross a boundary. Because the same people work across all four practices, a problem doesn't get handed off at
+Most problems cross a boundary. Because the same people work across all five practices, a problem doesn't get handed off at
 the boundary - which is usually exactly where it lives.
 
 ## How an engagement runs
